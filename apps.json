@@ -1,12 +1,12 @@
 {
     "app": {
             "repoName": "Apple",
-            "proyect": "Large",
+            "proyect": "Short",
             "branch": "Red"        
     },
     "app": {
-            "repoName": "Apple",
+            "repoName": "Orange",
             "proyect": "Large",
-            "branch": "Red"
+            "branch": "Blue"
     }
 }
