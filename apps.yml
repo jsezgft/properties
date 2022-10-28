@@ -1,10 +1,9 @@
 
 ---
 app:
-  repoName: Apple
+- repoName: Apple
   proyect: Large
   branch: Red
-app:
-  repoName: Orange
+- repoName: Orange
   proyect: Short
   branch: Blue
