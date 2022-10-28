@@ -5,6 +5,6 @@ app:
   proyect: Large
   branch: Red
 app:
-  repoName: Apple
-  proyect: Large
-  branch: Red
+  repoName: Orange
+  proyect: Short
+  branch: Blue
