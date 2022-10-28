@@ -1,9 +1,10 @@
 
 ---
 app:
-- repoName: Apple
-  proyect: Large
-  branch: Red
-- repoName: Orange
-  proyect: Short
-  branch: Blue
+- repoName: app_spring_sample
+  proyect: spring
+  branch: master
+  
+- repoName: my-app-angular
+  proyect: angular
+  branch: master
