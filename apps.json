@@ -1,16 +1,12 @@
 {
     "app1": {
-        {
             "repoName": "Apple",
             "proyect": "Large",
-            "branch": "Red"
-        }
+            "branch": "Red"        
     },
     "app2": {
-        {
             "repoName": "Apple",
             "proyect": "Large",
             "branch": "Red"
-        }
     }
 }
