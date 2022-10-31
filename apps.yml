@@ -4,7 +4,9 @@ app:
 - repoName: app_spring_sample
   proyect: maven
   branch: master
+  owner: jsezgft
   
 - repoName: my-app-angular
   proyect: angular
   branch: master
+  owner: jsezgft
