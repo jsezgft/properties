@@ -2,11 +2,15 @@
 ---
 app:
 - repoName: app_spring_sample
+  owner: jsezgft
   proyect: maven
   branch: master
-  owner: jsezgft
+  area: archit
+  projectName: intranet-mavem
   
 - repoName: my-app-angular
   proyect: angular
   branch: master
   owner: jsezgft
+  area: archit
+  projectName: intranet-angular
